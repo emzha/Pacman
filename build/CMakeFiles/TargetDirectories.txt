@@ -1,0 +1,9 @@
+/Users/Mahnaz/Downloads/paczza-master/build/CMakeFiles/rebuild_cache.dir
+/Users/Mahnaz/Downloads/paczza-master/build/CMakeFiles/edit_cache.dir
+/Users/Mahnaz/Downloads/paczza-master/build/game/CMakeFiles/rebuild_cache.dir
+/Users/Mahnaz/Downloads/paczza-master/build/game/CMakeFiles/edit_cache.dir
+/Users/Mahnaz/Downloads/paczza-master/build/game/CMakeFiles/game.dir
+/Users/Mahnaz/Downloads/paczza-master/build/game/CMakeFiles/paczza.dir
+/Users/Mahnaz/Downloads/paczza-master/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/Mahnaz/Downloads/paczza-master/build/tests/CMakeFiles/edit_cache.dir
+/Users/Mahnaz/Downloads/paczza-master/build/tests/CMakeFiles/unittests.dir
